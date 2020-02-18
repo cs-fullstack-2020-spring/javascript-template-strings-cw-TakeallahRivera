@@ -38,6 +38,8 @@ My address is ${my_address}`
 
 console.log(my_template_string);
 
+//Comments: Created a template string using name, ID, and address. Plugged in template string into console log to print name, ID, and address
+
 
 
 
@@ -67,6 +69,7 @@ let my_template_string2 = `Congratulations ${contestant} !! your score is ${scor
 
 console.log(my_template_string2);
 
+//Comments: Created variables for contestant and score. Created a template string using variables created. Added template string to the console log to produce desired output.
 
 
 /*### Exercise 3:
@@ -100,3 +103,6 @@ prompt("What is the name of your home team?");
 prompt("What is the name of your visiting team?");
 prompt("Enter the score of your home team");
 prompt("Enter the score of your visiting team");
+
+//Comments: Created prompts for each question.
+
