@@ -28,9 +28,9 @@ My address is Memphis, TN.
 
 
 //Classwork Problem 1 Solution
-let my_name = "Takeallah";
-let my_id = "8289";
-let my_address = "Spottswood Avenue";
+let my_name = "Kevin";
+let my_id = "2112";
+let my_address = "Memphis TN";
 
 let my_template_string = `My name is ${my_name}
 My ID is ${my_id} 
@@ -97,5 +97,6 @@ Create a tie position.
 //Classwork Problem 3 Solution
 
 prompt("What is the name of your home team?");
-prompt("What is the name of the visiting team?");
-prompt()
+prompt("What is the name of your visiting team?");
+prompt("Enter the score of your home team");
+prompt("Enter the score of your visiting team");
