@@ -1,6 +1,6 @@
-# JavaScript template strings class work
+//Classwork Problem 1 Question
 
-### Exercise 1:
+/*### Exercise 1:
 Create a template string and assign it to the variable ```my_template_string```.
 
 The template string should contain the following data only:
@@ -23,7 +23,26 @@ My address is Memphis, TN.
 ```
 
 
-### Exercise 2:
+*/
+
+
+
+//Classwork Problem 1 Solution
+let my_name = "Takeallah";
+let my_id = "8289";
+let my_address = "Spottswood Avenue";
+
+let my_template_string = `My name is ${my_name}
+My ID is ${my_id} 
+My address is ${my_address}`
+
+console.log(my_template_string);
+
+
+
+
+//Classwork Problem 2 Question
+/*### Exercise 2:
 
 Create a new template string 
 
@@ -36,8 +55,21 @@ and use the provided variables to print
 ```
 Congratulations 1_M_l337! !!, your score is 9001.
 ```
+*/
 
-### Exercise 3:
+
+
+//Classwork Problem 2 Solution
+let contestant = "1_M_l337";
+let score = "9001";
+
+let my_template_string2 = `Congratulations ${contestant} your score is ${score}`;
+
+console.log(my_template_string2);
+
+
+
+/*### Exercise 3:
 
 Combine multiple development concepts to create a basketball scoring program that meets the following requirements:
 - Prompts the user for the name of their Home team
@@ -59,3 +91,7 @@ Visitors/GS Warriors: 23
 ```
 
 Create a tie position. 
+
+*/
+
+//Classwork Problem 3 Solution
