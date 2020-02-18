@@ -63,7 +63,7 @@ Congratulations 1_M_l337! !!, your score is 9001.
 let contestant = "1_M_l337";
 let score = "9001";
 
-let my_template_string2 = `Congratulations ${contestant} your score is ${score}`;
+let my_template_string2 = `Congratulations ${contestant} !! your score is ${score}.`;
 
 console.log(my_template_string2);
 
