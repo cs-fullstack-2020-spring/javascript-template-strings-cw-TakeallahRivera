@@ -95,3 +95,7 @@ Create a tie position.
 */
 
 //Classwork Problem 3 Solution
+
+prompt("What is the name of your home team?");
+prompt("What is the name of the visiting team?");
+prompt()
